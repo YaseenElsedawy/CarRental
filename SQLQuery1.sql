@@ -52,7 +52,7 @@ values (4 , 'yaseen' , 'alex.' , 1234);
 insert into Rental (e_ID , e_CustomerName , e_LocationAddress , e_ModelNumber , e_PickupDate , e_ReturnDate )
 values (5 , 'yaseen' , 'alex' , 1234 , 1/5/2020 , 1/6/2020 ); 
 
-insert into  Vehicle (v_id , v_ModelNumber , v_Type)
+insert into  Vehicle (v_ID , v_ModelNumber , v_Type)
 values (6 , 1122 , 'B M W');
 insert into Location(l_ID , l_Address , l_City) 
 values (7 , 'kafr el_dawar' ,'Elbehira');
